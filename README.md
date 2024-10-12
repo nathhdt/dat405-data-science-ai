@@ -1,2 +1,2 @@
 # dat405-data-science-ai
-DAT405 Introduction to Data Science & AI Chalmers course
+chalmers university of technology - dat405 introduction to data science & ai
