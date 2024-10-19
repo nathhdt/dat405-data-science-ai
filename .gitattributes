@@ -1,1 +1,3 @@
-[0-9][0-9][0-9][0-9].[0-9a-f]{32} linguist-vendored
+"module 4/assignment 4/easy_ham/*" linguist-vendored
+"module 4/assignment 4/hard_ham/*" linguist-vendored
+"module 4/assignment 4/spam/*" linguist-vendored
